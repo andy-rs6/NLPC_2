@@ -1,0 +1,8 @@
+Chat bot pentru discord
+1 - welcome bot
+2 - music bot
+3 - manager bot of a server
+4 - social media bot
+
+
+de comentat codul

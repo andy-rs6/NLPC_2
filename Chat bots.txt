@@ -1,8 +1,14 @@
-Chat bot pentru discord
-1 - welcome bot
-2 - music bot
-3 - manager bot of a server
-4 - social media bot
+Idei ---------------------
+Toate ideile de chatbots descrie cu cel putin 3 -4 activitati posibile a chatbotilor
 
+Social Services:
+1. Raspunde la intrebari
+2. Glumeste
+3. Tine de urit
 
-de comentat codul
+Moderation:
+1. ban membru
+2. kik membru
+3. organizarea giveaways
+4. welcome messages 
+5. notifications

@@ -1,8 +1,29 @@
-Idei ---------------------
-Toate ideile de chatbots descrie cu cel putin 3 -4 activitati posibile a chatbotilor
+Identificare : cuvinte-chei, starea persoanei (trist, vesel)
 
-Personal antrenor chatbot : 
-- regimuti de slabire
-- regimuri de acumulare a masei musculare
-- regimuri alimentare
-- programe de antrenament
+Facem o lista: in lista sunt cuvintele :
+{obosit, plictisit, nu mai am energie, nimeni nu iubeste }
+1.
+User: Azi sunt asa de obosit , ca nu vreau sa fac nimic
+Bot: Hey,am eu o metoda de a te inveseli, am un regim sportiv care te va inviora
+2.
+User: Nu am energie, imi este lene sa fac orice
+Bot: Hey , punem pariu ca iti ridic energia in 30 min (daca vei urma acest antrenament .......)
+3.
+User: Dece oare nimeni nu ma iubeste.....
+Bot: Hmm, eu cred ca este o problema la mijloc, poate nu ai o forma fizica destul de atragatoare
+User> Da asa este , si ce pot face ...
+Bot: Am eu solutia perfecta, iti pot oferi un regim alimentar si un set de exercitii care
+o te vor face cel ma atragator baiat din scola
+
+---------------------------------------------------------
+   Ideea  : Fitness chatbot 
+
+Soluția tehnică propusă: Sa ofere posibilitatea fiecarui om de a obtine un program de antrenament sportiv de la cei mai renumiti antrenori + gratis
+
+Arhitectura soluției: 
+  - regimuti de slabire
+  - regimuri de acumulare a masei musculare
+  - regimuri alimentare
+  - programe de antrenament
+  - track your antrenament
+Si va fi implementat pe "Discord" 

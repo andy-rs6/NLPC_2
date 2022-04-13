@@ -27,3 +27,17 @@ Arhitectura soluției:
   - programe de antrenament
   - track your antrenament
 Si va fi implementat pe "Discord" 
+
+
+----------------------------------------------
+  Ideea  : Fitness chatbot 
+
+Soluția tehnică propusă: Sa ofere posibilitatea fiecarui om de a obtine un program de antrenament sportiv de la cei mai renumiti antrenori + gratis
+
+Arhitectura soluției: 
+  - regimuti de slabire
+  - regimuri de acumulare a masei musculare
+  - regimuri alimentare
+  - programe de antrenament
+  - track your antrenament
+Si va fi implementat pe "Discord" 
